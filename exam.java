@@ -39,7 +39,7 @@ public class exam extends javax.swing.JFrame {
         que[7][1]="883";
         que[8][0]="What is the value of x for 5+(9*x)=23?";
         que[8][1]="2";
-        que[9][0]="What is the value of x for 6+2-x=0?";
+        que[9][0]="What is the value of y for 6+2-y=0?";
         que[9][1]="8";
         Random random=new Random();
         int temp;
